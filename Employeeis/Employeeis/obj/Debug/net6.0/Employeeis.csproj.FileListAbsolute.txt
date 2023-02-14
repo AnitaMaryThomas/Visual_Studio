@@ -1,0 +1,15 @@
+C:\Users\anita.thomas\source\repos\Employeeis\Employeeis\bin\Debug\net6.0\Employeeis.exe
+C:\Users\anita.thomas\source\repos\Employeeis\Employeeis\bin\Debug\net6.0\Employeeis.deps.json
+C:\Users\anita.thomas\source\repos\Employeeis\Employeeis\bin\Debug\net6.0\Employeeis.runtimeconfig.json
+C:\Users\anita.thomas\source\repos\Employeeis\Employeeis\bin\Debug\net6.0\Employeeis.dll
+C:\Users\anita.thomas\source\repos\Employeeis\Employeeis\bin\Debug\net6.0\Employeeis.pdb
+C:\Users\anita.thomas\source\repos\Employeeis\Employeeis\obj\Debug\net6.0\Employeeis.csproj.AssemblyReference.cache
+C:\Users\anita.thomas\source\repos\Employeeis\Employeeis\obj\Debug\net6.0\Employeeis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anita.thomas\source\repos\Employeeis\Employeeis\obj\Debug\net6.0\Employeeis.AssemblyInfoInputs.cache
+C:\Users\anita.thomas\source\repos\Employeeis\Employeeis\obj\Debug\net6.0\Employeeis.AssemblyInfo.cs
+C:\Users\anita.thomas\source\repos\Employeeis\Employeeis\obj\Debug\net6.0\Employeeis.csproj.CoreCompileInputs.cache
+C:\Users\anita.thomas\source\repos\Employeeis\Employeeis\obj\Debug\net6.0\Employeeis.dll
+C:\Users\anita.thomas\source\repos\Employeeis\Employeeis\obj\Debug\net6.0\refint\Employeeis.dll
+C:\Users\anita.thomas\source\repos\Employeeis\Employeeis\obj\Debug\net6.0\Employeeis.pdb
+C:\Users\anita.thomas\source\repos\Employeeis\Employeeis\obj\Debug\net6.0\Employeeis.genruntimeconfig.cache
+C:\Users\anita.thomas\source\repos\Employeeis\Employeeis\obj\Debug\net6.0\ref\Employeeis.dll

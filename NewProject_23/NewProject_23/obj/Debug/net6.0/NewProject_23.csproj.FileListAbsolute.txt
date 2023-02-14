@@ -1,0 +1,15 @@
+C:\Users\anita.thomas\source\repos\NewProject_23\NewProject_23\bin\Debug\net6.0\NewProject_23.exe
+C:\Users\anita.thomas\source\repos\NewProject_23\NewProject_23\bin\Debug\net6.0\NewProject_23.deps.json
+C:\Users\anita.thomas\source\repos\NewProject_23\NewProject_23\bin\Debug\net6.0\NewProject_23.runtimeconfig.json
+C:\Users\anita.thomas\source\repos\NewProject_23\NewProject_23\bin\Debug\net6.0\NewProject_23.dll
+C:\Users\anita.thomas\source\repos\NewProject_23\NewProject_23\bin\Debug\net6.0\NewProject_23.pdb
+C:\Users\anita.thomas\source\repos\NewProject_23\NewProject_23\obj\Debug\net6.0\NewProject_23.csproj.AssemblyReference.cache
+C:\Users\anita.thomas\source\repos\NewProject_23\NewProject_23\obj\Debug\net6.0\NewProject_23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anita.thomas\source\repos\NewProject_23\NewProject_23\obj\Debug\net6.0\NewProject_23.AssemblyInfoInputs.cache
+C:\Users\anita.thomas\source\repos\NewProject_23\NewProject_23\obj\Debug\net6.0\NewProject_23.AssemblyInfo.cs
+C:\Users\anita.thomas\source\repos\NewProject_23\NewProject_23\obj\Debug\net6.0\NewProject_23.csproj.CoreCompileInputs.cache
+C:\Users\anita.thomas\source\repos\NewProject_23\NewProject_23\obj\Debug\net6.0\NewProject_23.dll
+C:\Users\anita.thomas\source\repos\NewProject_23\NewProject_23\obj\Debug\net6.0\refint\NewProject_23.dll
+C:\Users\anita.thomas\source\repos\NewProject_23\NewProject_23\obj\Debug\net6.0\NewProject_23.pdb
+C:\Users\anita.thomas\source\repos\NewProject_23\NewProject_23\obj\Debug\net6.0\NewProject_23.genruntimeconfig.cache
+C:\Users\anita.thomas\source\repos\NewProject_23\NewProject_23\obj\Debug\net6.0\ref\NewProject_23.dll

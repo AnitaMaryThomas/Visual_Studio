@@ -1,0 +1,15 @@
+C:\Users\anita.thomas\source\repos\LearnCSharpTesting\ConsoleAppCore\bin\Debug\net6.0\ConsoleAppCore.exe
+C:\Users\anita.thomas\source\repos\LearnCSharpTesting\ConsoleAppCore\bin\Debug\net6.0\ConsoleAppCore.deps.json
+C:\Users\anita.thomas\source\repos\LearnCSharpTesting\ConsoleAppCore\bin\Debug\net6.0\ConsoleAppCore.runtimeconfig.json
+C:\Users\anita.thomas\source\repos\LearnCSharpTesting\ConsoleAppCore\bin\Debug\net6.0\ConsoleAppCore.dll
+C:\Users\anita.thomas\source\repos\LearnCSharpTesting\ConsoleAppCore\bin\Debug\net6.0\ConsoleAppCore.pdb
+C:\Users\anita.thomas\source\repos\LearnCSharpTesting\ConsoleAppCore\obj\Debug\net6.0\ConsoleAppCore.csproj.AssemblyReference.cache
+C:\Users\anita.thomas\source\repos\LearnCSharpTesting\ConsoleAppCore\obj\Debug\net6.0\ConsoleAppCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anita.thomas\source\repos\LearnCSharpTesting\ConsoleAppCore\obj\Debug\net6.0\ConsoleAppCore.AssemblyInfoInputs.cache
+C:\Users\anita.thomas\source\repos\LearnCSharpTesting\ConsoleAppCore\obj\Debug\net6.0\ConsoleAppCore.AssemblyInfo.cs
+C:\Users\anita.thomas\source\repos\LearnCSharpTesting\ConsoleAppCore\obj\Debug\net6.0\ConsoleAppCore.csproj.CoreCompileInputs.cache
+C:\Users\anita.thomas\source\repos\LearnCSharpTesting\ConsoleAppCore\obj\Debug\net6.0\ConsoleAppCore.dll
+C:\Users\anita.thomas\source\repos\LearnCSharpTesting\ConsoleAppCore\obj\Debug\net6.0\refint\ConsoleAppCore.dll
+C:\Users\anita.thomas\source\repos\LearnCSharpTesting\ConsoleAppCore\obj\Debug\net6.0\ConsoleAppCore.pdb
+C:\Users\anita.thomas\source\repos\LearnCSharpTesting\ConsoleAppCore\obj\Debug\net6.0\ConsoleAppCore.genruntimeconfig.cache
+C:\Users\anita.thomas\source\repos\LearnCSharpTesting\ConsoleAppCore\obj\Debug\net6.0\ref\ConsoleAppCore.dll

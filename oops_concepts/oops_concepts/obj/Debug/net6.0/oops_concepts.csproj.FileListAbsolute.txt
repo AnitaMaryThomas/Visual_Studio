@@ -1,0 +1,15 @@
+C:\Users\anita.thomas\source\repos\oops_concepts\oops_concepts\bin\Debug\net6.0\oops_concepts.exe
+C:\Users\anita.thomas\source\repos\oops_concepts\oops_concepts\bin\Debug\net6.0\oops_concepts.deps.json
+C:\Users\anita.thomas\source\repos\oops_concepts\oops_concepts\bin\Debug\net6.0\oops_concepts.runtimeconfig.json
+C:\Users\anita.thomas\source\repos\oops_concepts\oops_concepts\bin\Debug\net6.0\oops_concepts.dll
+C:\Users\anita.thomas\source\repos\oops_concepts\oops_concepts\bin\Debug\net6.0\oops_concepts.pdb
+C:\Users\anita.thomas\source\repos\oops_concepts\oops_concepts\obj\Debug\net6.0\oops_concepts.csproj.AssemblyReference.cache
+C:\Users\anita.thomas\source\repos\oops_concepts\oops_concepts\obj\Debug\net6.0\oops_concepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anita.thomas\source\repos\oops_concepts\oops_concepts\obj\Debug\net6.0\oops_concepts.AssemblyInfoInputs.cache
+C:\Users\anita.thomas\source\repos\oops_concepts\oops_concepts\obj\Debug\net6.0\oops_concepts.AssemblyInfo.cs
+C:\Users\anita.thomas\source\repos\oops_concepts\oops_concepts\obj\Debug\net6.0\oops_concepts.csproj.CoreCompileInputs.cache
+C:\Users\anita.thomas\source\repos\oops_concepts\oops_concepts\obj\Debug\net6.0\oops_concepts.dll
+C:\Users\anita.thomas\source\repos\oops_concepts\oops_concepts\obj\Debug\net6.0\refint\oops_concepts.dll
+C:\Users\anita.thomas\source\repos\oops_concepts\oops_concepts\obj\Debug\net6.0\oops_concepts.pdb
+C:\Users\anita.thomas\source\repos\oops_concepts\oops_concepts\obj\Debug\net6.0\oops_concepts.genruntimeconfig.cache
+C:\Users\anita.thomas\source\repos\oops_concepts\oops_concepts\obj\Debug\net6.0\ref\oops_concepts.dll

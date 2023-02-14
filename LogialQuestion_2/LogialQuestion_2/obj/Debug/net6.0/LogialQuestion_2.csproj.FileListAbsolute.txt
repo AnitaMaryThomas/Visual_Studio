@@ -1,0 +1,15 @@
+C:\Users\anita.thomas\source\repos\LogialQuestion_2\LogialQuestion_2\bin\Debug\net6.0\LogialQuestion_2.exe
+C:\Users\anita.thomas\source\repos\LogialQuestion_2\LogialQuestion_2\bin\Debug\net6.0\LogialQuestion_2.deps.json
+C:\Users\anita.thomas\source\repos\LogialQuestion_2\LogialQuestion_2\bin\Debug\net6.0\LogialQuestion_2.runtimeconfig.json
+C:\Users\anita.thomas\source\repos\LogialQuestion_2\LogialQuestion_2\bin\Debug\net6.0\LogialQuestion_2.dll
+C:\Users\anita.thomas\source\repos\LogialQuestion_2\LogialQuestion_2\bin\Debug\net6.0\LogialQuestion_2.pdb
+C:\Users\anita.thomas\source\repos\LogialQuestion_2\LogialQuestion_2\obj\Debug\net6.0\LogialQuestion_2.csproj.AssemblyReference.cache
+C:\Users\anita.thomas\source\repos\LogialQuestion_2\LogialQuestion_2\obj\Debug\net6.0\LogialQuestion_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anita.thomas\source\repos\LogialQuestion_2\LogialQuestion_2\obj\Debug\net6.0\LogialQuestion_2.AssemblyInfoInputs.cache
+C:\Users\anita.thomas\source\repos\LogialQuestion_2\LogialQuestion_2\obj\Debug\net6.0\LogialQuestion_2.AssemblyInfo.cs
+C:\Users\anita.thomas\source\repos\LogialQuestion_2\LogialQuestion_2\obj\Debug\net6.0\LogialQuestion_2.csproj.CoreCompileInputs.cache
+C:\Users\anita.thomas\source\repos\LogialQuestion_2\LogialQuestion_2\obj\Debug\net6.0\LogialQuestion_2.dll
+C:\Users\anita.thomas\source\repos\LogialQuestion_2\LogialQuestion_2\obj\Debug\net6.0\refint\LogialQuestion_2.dll
+C:\Users\anita.thomas\source\repos\LogialQuestion_2\LogialQuestion_2\obj\Debug\net6.0\LogialQuestion_2.pdb
+C:\Users\anita.thomas\source\repos\LogialQuestion_2\LogialQuestion_2\obj\Debug\net6.0\LogialQuestion_2.genruntimeconfig.cache
+C:\Users\anita.thomas\source\repos\LogialQuestion_2\LogialQuestion_2\obj\Debug\net6.0\ref\LogialQuestion_2.dll
