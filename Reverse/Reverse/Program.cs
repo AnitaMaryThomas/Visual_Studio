@@ -19,6 +19,7 @@
             Console.WriteLine("Reversed string is: {0}", rev);
             Console.ReadLine();
             Console.WriteLine("hi");
+            string abc = Console.ReadLine();
         }
     }
 }
